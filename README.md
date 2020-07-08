@@ -1,5 +1,5 @@
-# ACDNE
-Adversarial Deep Network Embedding for Cross-Network Node Classification
+
+Adversarial Deep Network Embedding for Cross-Network Node Classification (ACDNE)
 ====
 This repository contains the author's implementation in Tensorflow for the paper "Adversarial Deep Network Embedding for Cross-Network Node Classifications".
 
