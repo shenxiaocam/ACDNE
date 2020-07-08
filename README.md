@@ -7,7 +7,11 @@ This repository contains the author's implementation in Tensorflow for the paper
 Datasets
 ===
 input/ contains the 5 datasets used in our paper.
-Each ".mat" file stores a network dataset, where the variable "network" represents an adjacency matrix, the variable "attrb" represents a node attribute matrix,  and the variable "group" represents a node label matrix. 
+
+Each ".mat" file stores a network dataset, where 
+the variable "network" represents an adjacency matrix, 
+the variable "attrb" represents a node attribute matrix,  
+the variable "group" represents a node label matrix. 
 
 Codes
 ===
