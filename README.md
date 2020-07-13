@@ -3,6 +3,14 @@ Adversarial Deep Network Embedding for Cross-Network Node Classification (ACDNE)
 ====
 This repository contains the author's implementation in Tensorflow for the paper "Adversarial Deep Network Embedding for Cross-Network Node Classifications".
 
+Environment Requirement
+===
+The code has been tested running under Python 3.6.2. The required packages are as follows:
+•	python == 3.6.2
+•	tensorflow == 1.13.1
+•	numpy == 1.16.2
+•	scipy == 1.2.1
+•	sklearn == 0.21.1
 
 Datasets
 ===
@@ -16,7 +24,7 @@ the variable "attrb" represents a node attribute matrix,
 
 the variable "group" represents a node label matrix. 
 
-Codes
+Code
 ===
 "ACDNE_model.py" is the implementation of the ACDNE model.
 
