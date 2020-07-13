@@ -6,11 +6,17 @@ This repository contains the author's implementation in Tensorflow for the paper
 Environment Requirement
 ===
 The code has been tested running under Python 3.6.2. The required packages are as follows:
+
 •	python == 3.6.2
+
 •	tensorflow == 1.13.1
+
 •	numpy == 1.16.2
+
 •	scipy == 1.2.1
+
 •	sklearn == 0.21.1
+
 
 Datasets
 ===
