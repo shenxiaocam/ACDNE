@@ -41,3 +41,7 @@ Code
 Plese cite our paper as:
 ===
 Xiao Shen, Quanyu Dai, Fu-lai Chung, Wei Lu, and Kup-Sze Choi. Adversarial Deep Network Embedding for Cross-Network Node Classification. In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), pages 2991-2999, 2020.
+
+Pytorch Implementation of ACDNE can be found at:
+===
+
